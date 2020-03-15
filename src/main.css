@@ -1,0 +1,29 @@
+table {
+    border: 1px solid #C0C0C0;
+    border-collapse: collapse; 
+} 
+table.table1{ 
+    position: absolute ; 
+    left: 450px;
+    top: 125px;
+}
+table.table2{
+    position: absolute ; 
+    left: 670px;
+    top: 125px;
+}
+td,th{ 
+    border: 1px solid #C0C0C0; 
+    padding: 7px;
+}
+button{
+    width: 110px;
+    height: 25px;
+    border-radius: 3px;
+    border: 1px solid #C0C0C0;
+    position: absolute;
+    left: 405px;
+    top:300px;
+    background: linear-gradient(to top,#D3D3D3,#FFFFFF);
+    outline: none;
+}
